@@ -1,0 +1,119 @@
+# Kirim-Chiqim API tarjimalari
+# Til: ru
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "O'zbekcha"
+msgstr "Узбекский"
+
+msgid "Ruscha"
+msgstr "Русский"
+
+msgid "Inglizcha"
+msgstr "Английский"
+
+msgid "Moliya"
+msgstr "Финансы"
+
+msgid "Foydalanuvchilar"
+msgstr "Пользователи"
+
+msgid "Foydalanuvchi"
+msgstr "Пользователь"
+
+msgid "Nomi (uz)"
+msgstr "Название (uz)"
+
+msgid "Nomi (ru)"
+msgstr "Название (ru)"
+
+msgid "Nomi (en)"
+msgstr "Название (en)"
+
+msgid "Nomi"
+msgstr "Название"
+
+msgid "Turi"
+msgstr "Тип"
+
+msgid "Chiqim turi"
+msgstr "Тип расхода"
+
+msgid "Chiqim turlari"
+msgstr "Типы расходов"
+
+msgid "Kirim turi"
+msgstr "Тип дохода"
+
+msgid "Kirim turlari"
+msgstr "Типы доходов"
+
+msgid "Naqd pul"
+msgstr "Наличные"
+
+msgid "Karta"
+msgstr "Карта"
+
+msgid "Valyuta"
+msgstr "Валюта"
+
+msgid "Boshlang'ich qoldiq"
+msgstr "Начальный остаток"
+
+msgid "Hisob"
+msgstr "Счёт"
+
+msgid "Hisoblar"
+msgstr "Счета"
+
+msgid "Summa"
+msgstr "Сумма"
+
+msgid "Sana"
+msgstr "Дата"
+
+msgid "Izoh"
+msgstr "Комментарий"
+
+msgid "Chiqim"
+msgstr "Расход"
+
+msgid "Chiqimlar"
+msgstr "Расходы"
+
+msgid "Kirim"
+msgstr "Доход"
+
+msgid "Kirimlar"
+msgstr "Доходы"
+
+msgid "Bu nomli hisob allaqachon mavjud."
+msgstr "Счёт с таким названием уже существует."
+
+msgid "Kirim yoki chiqimi bor hisobning valyutasini o'zgartirib bo'lmaydi."
+msgstr "Нельзя изменить валюту счёта, у которого есть доходы или расходы."
+
+msgid "Bu hisob sizga tegishli emas."
+msgstr "Этот счёт вам не принадлежит."
+
+msgid "Bu tur ushbu foydalanuvchiga tegishli emas."
+msgstr "Эта категория не принадлежит данному пользователю."
+
+msgid "Hisobda mablag' yetarli emas. Mavjud qoldiq: %(balance)s %(currency)s"
+msgstr "Недостаточно средств на счёте. Доступный остаток: %(balance)s %(currency)s"
+
+msgid "custom davr uchun date_from va date_to majburiy."
+msgstr "Для периода custom обязательны date_from и date_to."
+
+msgid "date_from date_to dan katta bo'lishi mumkin emas."
+msgstr "date_from не может быть больше date_to."
+
+msgid "Parollar mos kelmadi."
+msgstr "Пароли не совпадают."
+
+msgid "Bu yozuvga bog'langan kirim yoki chiqimlar bor, o'chirib bo'lmaydi."
+msgstr "К этой записи привязаны доходы или расходы, удалить нельзя."
